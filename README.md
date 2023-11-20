@@ -82,3 +82,6 @@ To answer our original question: Does user age impact the average bike trip dura
 
 This project was done in Microsoft Power BI. The pbix file is included in this repository, also find a link [here](https://app.powerbi.com/links/3N4NSnc4Jq?ctid=3922f60b-e8a2-4862-9142-e8910c694245&pbi_source=linkShare) to view on the web.
 
+
+
+### Reference: Career Foundry
