@@ -78,3 +78,7 @@ To answer our original question: Does user age impact the average bike trip dura
 
 - The Citi Bike customer base is mostly long-term subscribers aged between 35-44, who are most active during the week. This tells us that they are probably people who live in New York and use NY Citi Bikes to commute. Marketing and advertising campaigns should therefore target this particular demographic
 
+***PS Note***
+
+This project was done in Microsoft Power BI. The pbix file is included in this repository, also find a link [here](https://app.powerbi.com/links/3N4NSnc4Jq?ctid=3922f60b-e8a2-4862-9142-e8910c694245&pbi_source=linkShare) to view on the web.
+
