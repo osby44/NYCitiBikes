@@ -54,6 +54,11 @@ However, we can spot a few much longer trips (>1,000 mins) in the age bracket 30
 
 To answer our original question: Does user age impact the average bike trip duration? With the scatter plot, we saw that there doesn’t seem to be a notable correlation between the user’s age and how long they ride for.
 
+![Screenshot (98)](https://github.com/osby44/NYCitiBikes/assets/141450625/72bf93c4-5073-4a36-b481-340ae08803f7)
+
+![Screenshot (99)](https://github.com/osby44/NYCitiBikes/assets/141450625/8d54c029-dc20-4f31-99d1-ac00ecc20be6)
+
+
 ### Findings:
 
 ***Top 5 pick-up locations for bikes:*** 
